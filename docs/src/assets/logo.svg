@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 250" width="300" height="250" role="img" aria-label="TopicModeling.jl logo">
+<!-- A document whose words are coloured by topic assignment; the three topics are the Julia dots. -->
+<g transform="translate(53 0)">
+<path d="M38 14h92l36 36v128a10 10 0 0 1-10 10H38a10 10 0 0 1-10-10V24a10 10 0 0 1 10-10z" fill="#FFFFFF" stroke="#5B6370" stroke-width="5" stroke-linejoin="round"/>
+<path d="M130 14v26a10 10 0 0 0 10 10h26" fill="#E6E8EB" stroke="#5B6370" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="63" cy="62" r="10.5" fill="#CB3C33"/>
+<circle cx="80" cy="33" r="10.5" fill="#389826"/>
+<circle cx="97" cy="62" r="10.5" fill="#9558B2"/>
+<rect x="44" y="88" width="34" height="10" rx="5" fill="#9558B2"/>
+<rect x="84" y="88" width="22" height="10" rx="5" fill="#CB3C33"/>
+<rect x="112" y="88" width="40" height="10" rx="5" fill="#9558B2"/>
+<rect x="44" y="106" width="22" height="10" rx="5" fill="#389826"/>
+<rect x="72" y="106" width="38" height="10" rx="5" fill="#CB3C33"/>
+<rect x="116" y="106" width="20" height="10" rx="5" fill="#9558B2"/>
+<rect x="142" y="106" width="10" height="10" rx="5" fill="#CB3C33"/>
+<rect x="44" y="124" width="44" height="10" rx="5" fill="#CB3C33"/>
+<rect x="94" y="124" width="24" height="10" rx="5" fill="#389826"/>
+<rect x="124" y="124" width="28" height="10" rx="5" fill="#CB3C33"/>
+<rect x="44" y="142" width="18" height="10" rx="5" fill="#9558B2"/>
+<rect x="68" y="142" width="34" height="10" rx="5" fill="#389826"/>
+<rect x="108" y="142" width="44" height="10" rx="5" fill="#389826"/>
+<rect x="44" y="160" width="30" height="10" rx="5" fill="#389826"/>
+<rect x="80" y="160" width="26" height="10" rx="5" fill="#9558B2"/>
+<rect x="112" y="160" width="18" height="10" rx="5" fill="#CB3C33"/>
+</g>
+<text x="150" y="238" text-anchor="middle" font-family="'Lato','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="40" font-weight="400"><tspan fill="#9558B2">Topic</tspan><tspan fill="#CB3C33">Modeling</tspan></text>
+</svg>
